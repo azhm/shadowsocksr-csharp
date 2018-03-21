@@ -65,7 +65,7 @@ Down=下移
 
 New server=未配置的服务器
 
-Server=服务器(截图打码)
+Server=服务器
 Server IP=服务器 IP
 Server Port=服务器端口
 UDP Port=UDP端口
@@ -110,7 +110,7 @@ Local proxy=本地代理
 Build-in http proxy=内置http代理(目前有bug)
 Proxy Port=本地端口
 Reconnect Times=重连次数
- Timeout=连接超时
+Timeout=连接超时
 TTL=空闲断开秒数
 
 OK=确定
